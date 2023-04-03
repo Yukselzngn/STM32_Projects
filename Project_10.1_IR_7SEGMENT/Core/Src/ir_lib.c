@@ -1,9 +1,4 @@
-/*
- * ir_lib.c
- *
- *  Created on: Mar 28, 2023
- *      Author: Yüksel
- */
+
 #include "stm32f0xx_hal.h"
 #include "ir_lib.h"
 #include "dwt.h"
