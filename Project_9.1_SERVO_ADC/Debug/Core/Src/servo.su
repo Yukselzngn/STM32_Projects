@@ -1,0 +1,5 @@
+../Core/Src/servo.c:29:6:SERVO_Init	32	static
+../Core/Src/servo.c:42:6:SERVO_MoveTo	40	static
+../Core/Src/servo.c:52:6:SERVO_RawMove	16	static
+../Core/Src/servo.c:60:10:SERVO_Get_MaxPulse	16	static
+../Core/Src/servo.c:67:10:SERVO_Get_MinPulse	16	static

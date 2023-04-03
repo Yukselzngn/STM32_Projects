@@ -1,0 +1,2 @@
+../Core/Src/ir_lib.c:15:10:receive_data	16	static
+../Core/Src/ir_lib.c:58:10:convert_code	16	static

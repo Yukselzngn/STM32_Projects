@@ -1,0 +1,11 @@
+../Core/Src/TM1637.c:38:6:TM1637_Start	8	static
+../Core/Src/TM1637.c:47:6:TM1637_Stop	8	static
+../Core/Src/TM1637.c:60:6:TM1637_WriteData	24	static
+../Core/Src/TM1637.c:90:6:sendTo_Display	24	static
+../Core/Src/TM1637.c:113:6:Display_Init	16	static
+../Core/Src/TM1637.c:125:6:TM1637_CLK_SetHigh	8	static
+../Core/Src/TM1637.c:130:6:TM1637_CLK_SetLow	8	static
+../Core/Src/TM1637.c:134:6:TM1637_DIO_SetHigh	8	static
+../Core/Src/TM1637.c:137:6:TM1637_DIO_SetLow	8	static
+../Core/Src/TM1637.c:142:6:SomeDelay	24	static,ignoring_inline_asm
+../Core/Src/TM1637.c:156:9:tm1637_NumberToSegments	16	static
